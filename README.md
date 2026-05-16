@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a graduate student at **NYU Tandon School of Engineering** (MS CS, 2025–2027), with 3+ years of industry experience as a Data Engineer at **Optum** — where I built pipelines processing millions of healthcare records daily. I thrive at the intersection of **big data infrastructure**, **machine learning**, and **full-stack engineering**, and I'm actively seeking **Summer 2026 internships** in Software Engineering, ML/AI, and Data Engineering.
+I'm a graduate student at **NYU Tandon School of Engineering** (MS CS, 2025–2027), with 3+ years of industry experience as a Data Engineer at **Optum**, where I built pipelines processing millions of healthcare records daily. I thrive at the intersection of **big data infrastructure**, **machine learning**, and **full-stack engineering**, and I'm actively seeking **Summer 2026 internships** in Software Engineering, ML/AI, and Data Engineering.
 
 - 🔭 Currently building distributed systems and ML experiments at NYU
 - 🌱 Exploring neural scaling laws, μP (Maximal Update Parameterization), and LLM fine-tuning
@@ -66,11 +66,11 @@ I'm a graduate student at **NYU Tandon School of Engineering** (MS CS, 2025–20
 
 ### 🦠 [NYC Disease Outbreak Surveillance System](https://github.com/adhyayanverma/BigDataNYCDiseaseSurveillance)
 
-> Real-time distributed epidemiological surveillance platform — detecting outbreaks **2–7 days earlier** than official NYC DOH reports.
+> Real-time distributed epidemiological surveillance platform that detected outbreaks **2–7 days earlier** than official NYC DOH reports.
 
 - **Streaming:** Apache Kafka + Spark Streaming with **<5 min** end-to-end latency
 - **Ingestion:** 5+ heterogeneous sources (Reddit, Bluesky, NYC 311, RSS feeds, Syndromic Surveillance) with 55% noise reduction via contextual NLP and 3-tier semantic deduplication
-- **Storage:** Polyglot persistence — AWS S3, PostgreSQL + TimescaleDB, ChromaDB
+- **Storage:** Polyglot persistence across AWS S3, PostgreSQL + TimescaleDB, and ChromaDB
 - **Analytics:** DBSCAN geospatial clustering, rolling Z-score anomaly detection (7-day, 3σ)
 - **Dashboard:** Streamlit interface with sub-second query response
 
@@ -82,8 +82,8 @@ I'm a graduate student at **NYU Tandon School of Engineering** (MS CS, 2025–20
 
 > Trained **5 GPT-2-style transformer architectures** (1.4M–89M parameters) on 400K+ SVG files to derive domain-specific neural scaling laws for structured visual syntax.
 
-- **Best model** (SP XL, 89M params): validation loss **0.2505**, perplexity **1.285** — with **100% XML validity and SVG render rate**
-- **Scaling law:** Derived a domain-specific power law (**α ≈ 0.077**) via log-log regression across four orders of model magnitude — SVG scales ~20% slower than NLP due to strict zero-tolerance syntax constraints
+- **Best model** (SP XL, 89M params): validation loss **0.2505**, perplexity **1.285**, with **100% XML validity and SVG render rate**
+- **Scaling law:** Derived a domain-specific power law (**α ≈ 0.077**) via log-log regression across four orders of model magnitude; SVG scales ~20% slower than NLP due to strict zero-tolerance syntax constraints
 - **μP vs SP:** Benchmarked Standard vs. Maximal Update Parameterization across all scales; achieved **zero-shot LR transfer** (1.4M → 34M params) and identified a depth boundary where μP destabilizes at 12-layer depth
 - **Preprocessing:** 3-stage pipeline (minification, coordinate normalization, filtering) over **185M tokens** with BPE tokenization (4k vocab), achieving **3× sequence compression** within a 1,024-token context window
 
@@ -97,7 +97,7 @@ I'm a graduate student at **NYU Tandon School of Engineering** (MS CS, 2025–20
 
 - **Backend:** Django REST API · **Frontend:** Svelte · **Deployed** on AWS Elastic Beanstalk
 - **Features:** Follow trees, geo-tagged photo posts, personalized borough-filtered feeds, real-time group chats, like/comment system
-- **Roles:** 3-tier role system — user, caretaker, admin — with stewardship workflows and content moderation
+- **Roles:** 3-tier role system (user, caretaker, admin) with stewardship workflows and content moderation
 - **DevOps:** Full CI/CD via Travis CI, continuous test coverage reporting via Coveralls
 
 `Django` `Svelte` `PostgreSQL` `AWS` `Travis CI` `Coveralls` `REST API`
@@ -139,7 +139,7 @@ I'm a graduate student at **NYU Tandon School of Engineering** (MS CS, 2025–20
 
 ## 🎓 Education
 
-**New York University — Tandon School of Engineering** · *New York, USA*
+**New York University, Tandon School of Engineering** · *New York, USA*
 MS in Computer Science · 2025 – 2027
 
 **Birla Institute of Technology (BIT) Mesra** · *India*

@@ -78,6 +78,19 @@ I'm a graduate student at **NYU Tandon School of Engineering** (MS CS, 2025–20
 
 ---
 
+### 📐 [Scaling Laws in SVG Generation](https://github.com/adhyayanverma/MLProject) *(NYU · 2026)*
+
+> Trained **5 GPT-2-style transformer architectures** (1.4M–89M parameters) on 400K+ SVG files to derive domain-specific neural scaling laws for structured visual syntax.
+
+- **Best model** (SP XL, 89M params): validation loss **0.2505**, perplexity **1.285** — with **100% XML validity and SVG render rate**
+- **Scaling law:** Derived a domain-specific power law (**α ≈ 0.077**) via log-log regression across four orders of model magnitude — SVG scales ~20% slower than NLP due to strict zero-tolerance syntax constraints
+- **μP vs SP:** Benchmarked Standard vs. Maximal Update Parameterization across all scales; achieved **zero-shot LR transfer** (1.4M → 34M params) and identified a depth boundary where μP destabilizes at 12-layer depth
+- **Preprocessing:** 3-stage pipeline (minification, coordinate normalization, filtering) over **185M tokens** with BPE tokenization (4k vocab), achieving **3× sequence compression** within a 1,024-token context window
+
+`GPT-2` `μP` `PyTorch` `BPE Tokenization` `Scaling Laws` `Transformer` `SVG` `Google Colab A100`
+
+---
+
 ### 🌳 [Treestagram](https://github.com/adhyayanverma/treestagram)
 
 > Full-stack social platform built over 9 agile sprints, integrating the **NYC Open Data tree database** with social networking features.

@@ -125,13 +125,11 @@ I'm a graduate student at **NYU Tandon School of Engineering** (MS CS, 2025–20
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Adhyayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhyayanverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhyayanverma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhyayanverma&theme=tokyo-night&hide_border=true&area=true)](https://github.com/adhyayanverma)
 
 </div>
 

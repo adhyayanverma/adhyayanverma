@@ -4,7 +4,7 @@
 
 **MS Computer Science @ NYU Tandon** · Data & ML Engineer · Full-Stack Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adhyayanverma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhyayanverma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adhyayanverma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhyayanverma1/)
 [![Email](https://img.shields.io/badge/Email-av4159@nyu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:av4159@nyu.edu)
 [![Location](https://img.shields.io/badge/New%20York%2C%20USA-🗽-lightgrey?style=flat)](#)
 
@@ -149,7 +149,7 @@ BE in Computer Science & Engineering · 2017 – 2021
 
 *Open to Summer 2026 internships in Software Engineering, ML/AI & Data Engineering*
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhyayanverma)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhyayanverma1/)
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:av4159@nyu.edu)
 
 </div>
